@@ -1,0 +1,19 @@
+segment_sources:
+  P7E059A25:
+    type: origin_type
+    relation: translation
+    language: en
+  PEB8D7EE1:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  db6b5692b3da429386775cc6702a5f8b:
+    P7E059A25: 0fe0af1fb6af4396ac19b80beb38e9ce
+    PEB8D7EE1: 39c0bea52d524326982b3a20f990375f
+  21520ae1a0964361ac12e2a8025d1c3f:
+    P7E059A25: 9037a93fd2974bba8f9493b00ff5fef6
+    PEB8D7EE1: cc4407cc95334392a9e5b2bc3662c19e
+  d7299f45f7e043059a4618af8aab0f23:
+    P7E059A25: ab1a6584aadf4ebb80651d907ec2e68b
+    PEB8D7EE1: fe833a2304e241409f4178d0354994d5
